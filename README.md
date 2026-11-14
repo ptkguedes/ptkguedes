@@ -9,9 +9,9 @@ Rio de Janeiro, Brasil 🇧🇷
 
 Construo backends em Python pensados para não cair: ingestão de eventos, filas, pipelines de dados e observabilidade de ponta a ponta. Gosto de transformar dados brutos em algo que dá para medir, confiar e explicar.
 
-🏈 **Dados da NFL** são meu playground favorito. É onde junto análise de dados e esporte, como no [PGRScore](https://github.com/ptkguedes/PGRScore).
-🔬 **Curioso por:** nanotecnologia com inteligência artificial e análise de dados.
-🎮 **Fora do código:** videogames e os quatro grandes de Boston: ⚾ Red Sox, 🏈 New England Patriots, 🏀 Celtics e 🏒 Bruins.
+- 🏈 **Dados da NFL** são meu playground favorito. É onde junto análise de dados e esporte, como no [PGRScore](https://github.com/ptkguedes/PGRScore).
+- 🔬 **Curioso por:** nanotecnologia com inteligência artificial e análise de dados.
+- 🎮 **Fora do código:** videogames e os quatro grandes de Boston: ⚾ Red Sox, 🏈 New England Patriots, 🏀 Celtics e 🏒 Bruins.
 
 ### 🛠️ Stack
 
@@ -35,9 +35,9 @@ Construo backends em Python pensados para não cair: ingestão de eventos, filas
 
 I build Python backends designed to stay up: event ingestion, message queues, data pipelines, and end-to-end observability. I like turning raw data into something you can measure, trust, and explain.
 
-🏈 **NFL data** is my favorite playground. It's where data analysis meets sports, as in [PGRScore](https://github.com/ptkguedes/PGRScore).
-🔬 **Curious about:** nanotechnology with artificial intelligence, and data analysis.
-🎮 **Off the keyboard:** video games and Boston's big four: ⚾ Red Sox, 🏈 New England Patriots, 🏀 Celtics, and 🏒 Bruins.
+- 🏈 **NFL data** is my favorite playground. It's where data analysis meets sports, as in [PGRScore](https://github.com/ptkguedes/PGRScore).
+- 🔬 **Curious about:** nanotechnology with artificial intelligence, and data analysis.
+- 🎮 **Off the keyboard:** video games and Boston's big four: ⚾ Red Sox, 🏈 New England Patriots, 🏀 Celtics, and 🏒 Bruins.
 
 ### 🛠️ Stack
 
