@@ -11,7 +11,7 @@ Construo backends em Python pensados para não cair: ingestão de eventos, filas
 
 - 🏈 **Dados da NFL** são meu playground favorito. É onde junto análise de dados e esporte, como no [PGRScore](https://github.com/ptkguedes/PGRScore).
 - 🔬 **Curioso por:** nanotecnologia com inteligência artificial e análise de dados.
-- 🎮 **Fora do código:** videogames e os quatro grandes de Boston: ⚾ Red Sox, 🏈 New England Patriots, 🏀 Celtics e 🏒 Bruins.
+- 🎮 **Fora do código:** videogames, livros crimescene, HP, LOTR,  e os quatro grandes de Boston: ⚾ Red Sox, 🏈 New England Patriots, 🏀 Celtics e 🏒 Bruins.
 
 ### 🛠️ Stack
 
